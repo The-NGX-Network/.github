@@ -12,6 +12,4 @@
 -->
 
 ## 📚 Organization Resources
-[Github Page](https://github.thengx.network/)
-[Our Website](https://thengx.network/)
-[Discord Server](https://discord.thengx.network/)
+[Github](https://github.thengx.network/) • [Website](https://thengx.network/) • [Discord](https://discord.thengx.network/)
