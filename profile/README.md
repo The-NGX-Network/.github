@@ -11,5 +11,5 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## 📚 Organization Resources
+---
 [Github](https://github.thengx.network/) • [Website](https://thengx.network/) • [Discord](https://discord.thengx.network/)
