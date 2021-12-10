@@ -1,3 +1,3 @@
 # 🥳 Welcome to Our GitHub Organization
 ---
-[Github](https://github.thengx.network/) • [Website](https://thengx.network/) • [Discord](https://discord.thengx.network/) • [Support Docs](https://docs.thengx.network/)
+[Github](https://github.thengx.network/) • [Website](https://thengx.network/) • [Discord](https://discord.thengx.network/) • [Support Docs](https://kb.thengx.network/)
