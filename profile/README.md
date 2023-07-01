@@ -8,4 +8,4 @@ The primary goal for our community is to be a positive and respectful space wher
 For additional information about our community, such as history and background, we encourage you to check out [our website](https://xeriscape.network/).
 
 ---
-[Github](https://github.xeriscape.network/) • [Website](https://xeriscape.network/) • [Discord](https://discord.xeriscape.network/) • [Support Docs](https://docs.xeriscape.network/)
+[Github](https://github.xeriscape.network/) • [Website](https://xeriscape.network/) • [Discord](https://discord.xeriscape.network/) • [Support Docs](https://support.xeriscape.network/)
